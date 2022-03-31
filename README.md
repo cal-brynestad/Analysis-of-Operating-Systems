@@ -9,7 +9,7 @@ driver/making it operational involved created a Loadable Kernel Module and a dev
 
 
 
-NOTE: Unfortunately this implementation was done and likely is only compatible with the Cloud VM provided to us by school 
+NOTE: Unfortunately this implementation was done and likely is only compatible with the Cloud VM provided to us by school.
 Multi-Threading PA is an operational implementation of a multi-threaded program that reolved hostnames such as "google.com" to DNS addresses. Resolved 
 hostnames are written to a txt file called resolved.txt and corresponding DNS addresses are written to a txt file called serviced.txt. Resolver threads, 
 seen in multi-lookup.c, read hostnames from input files, write them to resolved.txt and place them into a shared buffer, implemented as a stack in 
