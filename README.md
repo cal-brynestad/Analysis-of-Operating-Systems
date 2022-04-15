@@ -1,6 +1,7 @@
 # Analysis-of-Operating-Systems
 Coursework from Analysis of Operating Systems, one of my favorite courses
 
+PA2 Char Driver:
 pa2_char_driver is an implementation of a "device driver" where the device is really just a dynamically allocated kernel buffer. Running this device
 driver/making it operational involved created a Loadable Kernel Module and a device file.
 
@@ -8,7 +9,7 @@ driver/making it operational involved created a Loadable Kernel Module and a dev
 
 
 
-
+Multi THreading PA:
 NOTE: This implementation is only compatible with Linux x86 and was completed on a Cloud VM provided by the school.
 Multi-Threading PA is an operational implementation of a multi-threaded program that reolved hostnames such as "google.com" to DNS addresses. Resolved 
 hostnames are written to a txt file called resolved.txt and corresponding DNS addresses are written to a txt file called serviced.txt. Resolver threads, 
