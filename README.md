@@ -9,7 +9,7 @@ driver/making it operational involved created a Loadable Kernel Module and a dev
 
 
 
-Multi THreading PA:
+Multi Threading PA:
 NOTE: This implementation is only compatible with Linux x86 and was completed on a Cloud VM provided by the school.
 Multi-Threading PA is an operational implementation of a multi-threaded program that reolved hostnames such as "google.com" to DNS addresses. Resolved 
 hostnames are written to a txt file called resolved.txt and corresponding DNS addresses are written to a txt file called serviced.txt. Resolver threads, 
